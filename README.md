@@ -3,4 +3,4 @@
 - Kunal Kushwaha says that this community is amazing.
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
-- Jsut Revisisng git commands :)
+- Just Revisisng git commands :)
